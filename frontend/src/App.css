@@ -1,0 +1,15 @@
+.App{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+ul{
+	font-size: 25px;
+}
+.counter{
+	display: flex;
+	flex-direction: row;
+}
+.num{
+	padding: 10px;
+}
