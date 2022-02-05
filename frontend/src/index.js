@@ -5,6 +5,6 @@ import App from './App';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>, //go to App.js to see code
   document.getElementById('root')
 );
